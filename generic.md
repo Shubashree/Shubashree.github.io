@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Learning
+title: Distributed Systems
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
